@@ -1,0 +1,29 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price,Unit_Cost
+PROD0001,Laptop Pro 14,Electronics,Computers,85000,68000
+PROD0002,Laptop Air 13,Electronics,Computers,65000,51000
+PROD0003,Gaming Laptop X,Electronics,Computers,105000,85000
+PROD0004,Wireless Mouse,Electronics,Accessories,1200,650
+PROD0005,Mechanical Keyboard,Electronics,Accessories,4500,2700
+PROD0006,USB-C Hub,Electronics,Accessories,2200,1200
+PROD0007,27-inch Monitor,Electronics,Monitors,22000,15500
+PROD0008,24-inch Monitor,Electronics,Monitors,15000,10500
+PROD0009,Smartphone Pro,Electronics,Mobiles,55000,42000
+PROD0010,Smartphone Lite,Electronics,Mobiles,22000,16000
+PROD0011,Office Chair,Furniture,Chairs,12000,7500
+PROD0012,Ergonomic Chair,Furniture,Chairs,18000,11000
+PROD0013,Office Desk,Furniture,Tables,16000,10000
+PROD0014,Standing Desk,Furniture,Tables,28000,19000
+PROD0015,Bookshelf,Furniture,Storage,8500,5000
+PROD0016,Filing Cabinet,Furniture,Storage,7000,4200
+PROD0017,Notebook Pack,Office Supplies,Paper,450,220
+PROD0018,Premium Notebook,Office Supplies,Paper,650,330
+PROD0019,Printer,Office Supplies,Machines,15000,10500
+PROD0020,Laser Printer,Office Supplies,Machines,24000,17000
+PROD0021,Printer Ink,Office Supplies,Supplies,1800,950
+PROD0022,Desk Organizer,Office Supplies,Accessories,900,450
+PROD0023,Backpack,Accessories,Bags,2500,1300
+PROD0024,Laptop Backpack,Accessories,Bags,4200,2200
+PROD0025,Travel Bag,Accessories,Bags,3500,1800
+PROD0026,Wireless Earbuds,Accessories,Audio,5500,3200
+PROD0027,Bluetooth Speaker,Accessories,Audio,6500,3900
+PROD0028,Power Bank,Accessories,Mobile Accessories,1800,950
